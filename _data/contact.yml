@@ -4,14 +4,17 @@
   icon: "fab fa-github"
 
 - type: linkedin
-  icon: "fab fa-linkedin-in"
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/a-tasdik-bijaksana"
+
+- type: instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/bijaksana_xyc"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: instagram
-  icon: "fab fa-instagram"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
